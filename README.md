@@ -90,3 +90,46 @@ Contributors include:
 - George Allangyima
 - Benjamin Otoo-Addo
 - Prince Makafui Tudoabor
+## 🛠️ Project Roles and Responsibilities
+
+To ensure smooth collaboration and success in the AirBnB Clone Project, the following roles and responsibilities are defined:
+
+### Project Manager
+- Oversees the entire project lifecycle.
+- Coordinates tasks, timelines, and team communication.
+- Ensures project goals are met on schedule and within scope.
+
+### Frontend Developers
+- Develop the user interface and user experience.
+- Implement responsive designs using HTML, CSS, and JavaScript.
+- Collaborate closely with backend developers to integrate APIs.
+
+### Backend Developers
+- Build and maintain the server-side logic using Python and Flask.
+- Design and manage databases (MySQL).
+- Develop RESTful APIs for frontend consumption.
+
+### Designers
+- Create wireframes, mockups, and prototypes.
+- Define visual elements and branding.
+- Ensure the UI is user-friendly and accessible.
+
+### QA/Testers
+- Develop and run tests (unit, integration, functional) to ensure software quality.
+- Report bugs and work with developers to resolve issues.
+- Validate that project requirements are met.
+
+### DevOps Engineers
+- Manage deployment pipelines and hosting environments.
+- Automate testing and deployment processes.
+- Monitor application performance and security.
+
+### Product Owner
+- Defines project vision and priorities.
+- Gathers requirements and feedback from stakeholders.
+- Ensures the product meets user needs and business goals.
+
+### Scrum Master
+- Facilitates agile ceremonies (daily standups, sprint planning).
+- Removes blockers and fosters team collaboration.
+- Ensures agile practices are followed for continuous improvement.
