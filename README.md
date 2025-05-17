@@ -133,3 +133,20 @@ To ensure smooth collaboration and success in the AirBnB Clone Project, the foll
 - Facilitates agile ceremonies (daily standups, sprint planning).
 - Removes blockers and fosters team collaboration.
 - Ensures agile practices are followed for continuous improvement.
+## 🎨 UI Component Patterns
+
+For the AirBnB Clone project, the following UI components will be created to build a consistent and user-friendly interface:
+
+### Navbar
+- A responsive navigation bar that allows users to easily access different parts of the app such as Home, Search, Listings, and Profile.
+- Includes branding, search input, and user account dropdown.
+
+### Property Card
+- A reusable card component displaying property details including images, price, location, and ratings.
+- Allows users to quickly browse and select properties.
+
+### Footer
+- A footer section with important links such as About Us, Contact, Terms of Service, and Social Media icons.
+- Provides site-wide navigation and legal information.
+
+These components will be designed with reusability and responsiveness in mind to ensure a seamless user experience across devices.
