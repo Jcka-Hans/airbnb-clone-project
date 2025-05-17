@@ -45,3 +45,48 @@ This project is a simplified clone of the Airbnb web application. It is designed
 ### 🧠 Importance of a User-Friendly Design
 
 A user-friendly design is essential in a booking system because it directly impacts user trust, engagement, and conversion. Users should be able to navigate listings, review property details, and complete bookings with minimal effort. A streamlined experience builds credibility, reduces bounce rates, and improves overall customer satisfaction.
+# AirBnB Clone Project
+
+## 📌 Overview
+
+This repository contains the codebase for the **AirBnB Clone Project**, a foundational project for ALX Software Engineering students. It aims to build a simplified version of the AirBnB platform, helping students gain hands-on experience with full-stack development concepts, collaborative coding, and deployment practices.
+
+## 🎯 Project Goals
+
+- Understand and apply the fundamentals of object-oriented programming (OOP) using Python.
+- Build a dynamic command interpreter to manage the backend.
+- Develop a front-end web interface to simulate the AirBnB experience.
+- Store and retrieve data using file storage and MySQL database.
+- Learn how to use Git and GitHub for version control in a team setting.
+- Follow best practices in testing, documentation, and code styling.
+
+## 🧰 Tech Stack
+
+- **Programming Language:** Python 3
+- **Front-End:** HTML, CSS, JavaScript (for later stages)
+- **Back-End Framework:** Flask
+- **Database:** MySQL
+- **Storage Engine:** FileStorage and DBStorage
+- **Testing:** Python’s `unittest` module
+- **Version Control:** Git & GitHub
+- **Deployment:** (Will be added in advanced stages)
+
+## 🚀 Getting Started
+
+This project is structured in phases:
+1. **Console Application** – Command-line interpreter to manage objects
+2. **Web Static** – Basic static HTML/CSS front-end
+3. **Web Framework** – Dynamic front-end with Flask integration
+4. **MySQL Storage** – Data persistence using a relational database
+5. **RESTful API** – Backend APIs for front-end consumption
+6. **Deployment** – Hosting the app using a web server
+
+## 👥 Contributors
+
+This project is developed as part of the ALX Software Engineering Program.  
+Contributors include:
+- [Jessica Owusuwaa](https://github.com/theowusuwaacodes)
+- Sandy Owusu Bremang
+- George Allangyima
+- Benjamin Otoo-Addo
+- Prince Makafui Tudoabor
